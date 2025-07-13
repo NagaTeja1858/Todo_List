@@ -6,4 +6,4 @@
 
 3.Also, a user can mark a task “complete” upon its successful completion and user can edit & delete their tasks. There is also a light/dark mode button to look good for the website.
 
-🔗 [To-Do List Web App](http://127.0.0.1:5500/index.html)
+🔗 [To-Do List Web App](https://nagateja1858.github.io/Todo_List/)
